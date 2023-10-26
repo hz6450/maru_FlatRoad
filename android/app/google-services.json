@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921123525547",
+    "project_id": "maru-1ea89",
+    "storage_bucket": "maru-1ea89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921123525547:android:a2aa5f6612984ca2ea78ee",
+        "android_client_info": {
+          "package_name": "com.mycompany.marureal02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZjgqb-7p289Z2azIvKFlmwQKznSKIy5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
